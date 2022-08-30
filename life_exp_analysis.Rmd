@@ -1,0 +1,14 @@
+---
+title: "Examine Life Expectancy"
+author: "Josephine Decker"
+date: "2022-08-30"
+output: html_document
+---
+
+```{r 
+
+
+
+
+```
+
